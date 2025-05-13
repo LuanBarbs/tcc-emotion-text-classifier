@@ -16,5 +16,5 @@ Este repositório contém o projeto de TCC focado em aprendizado de máquina par
 
 ## Como usar
 
-```bash
-pip install -r requirements.txt
+Basta rodar os notebooks no Jupyter ou Colab. As células devem ser executadas em ordem, da forma como está disposto nos notebooks.
+É necessário subir os Datasets para o ambiente antes de utilizar (basta seguir o README do diretório data).
